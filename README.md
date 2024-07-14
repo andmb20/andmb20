@@ -20,7 +20,11 @@ Entre outras ainda em planilha.
 ## Atualmente estou focado em desenvolver projetos pessoais que mostrem o que realmente tenho aprendido e sei executar. Disposto a contribuir em comunidades, novas equipes, aprender e ensinar.
 # :globe_with_meridians: Vamos nos conectar 
 
-<!--[![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andmb20)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andmb20)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+
+[![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andmb20)](https://github.com/anuraghazra/github-readme-stats)
 
 **andmb20/andmb20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
