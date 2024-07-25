@@ -19,6 +19,8 @@ Estou constantemente buscando novos aprendizados para melhores praticas de codif
 Entre outras ainda em planilha.
 ## Atualmente estou focado em desenvolver projetos pessoais que mostrem o que realmente tenho aprendido e sei executar. Disposto a contribuir em comunidades, novas equipes, aprender e ensinar.
 # :globe_with_meridians: Vamos nos conectar 
+- <a href="https://www.linkedin.com/in/andr%C3%A9-morais-bagalhi-325878319/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+- <a href="https://wa.me/+5514996850327?text=Olá%20André%20venho%20atraves%20do%20seu%20GitHub" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andmb20)](https://github.com/anuraghazra/github-readme-stats)
 
