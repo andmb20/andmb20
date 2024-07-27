@@ -1,6 +1,6 @@
 # Bem-vindo(a) :wave: 
 
-Eu sou André, desenvolvedor em ascenssão a Full-Stack. :computer: <br>
+Eu sou André, desenvolvedor em ascensão a Full-Stack. :computer: <br>
 Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de Desenvolvimento de Software.
 <br>
 <br>
