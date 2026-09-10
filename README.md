@@ -1,28 +1,55 @@
 # Bem-vindo(a) :wave: 
 
-Eu sou André, desenvolvedor em ascensão a Full-Stack. :computer: <br>
-Sempre em busca de novos desafios e oportunidades para aprender e crescer na área de Desenvolvimento de Software.
-<br>
-<br>
-# Minhas habilidades incluem: 
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<!-- <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />-->
-Estou constantemente buscando novos aprendizados para melhores praticas de codificação.
-<br>
-<br>
-## Continuo estudando modalidades como: :computer:
-- <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-Entre outras ainda em planilha.
-## Atualmente estou focado em desenvolver projetos pessoais que mostrem o que realmente tenho aprendido e sei executar. Disposto a contribuir em comunidades, novas equipes, aprender e ensinar.
-# :globe_with_meridians: Vamos nos conectar 
-- <a href="https://www.linkedin.com/in/andr%C3%A9-morais-bagalhi-325878319/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-- <a href="https://wa.me/+5514996850327?text=Olá%20André%20venho%20atraves%20do%20seu%20GitHub" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+Eu sou André, desenvolvedor de software em formação. 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andmb20)](https://github.com/anuraghazra/github-readme-stats)
+Atualmente, estou direcionando meus estudos para **Python e SQL**, buscando desenvolver uma base sólida em programação, manipulação de dados, bancos de dados e resolução de problemas.
+
+Tenho como objetivo transformar o conhecimento adquirido em **projetos práticos**, mantendo uma rotina constante de aprendizado e evolução técnica.
+
+<br>
+
+# 🛠️ Tecnologias e conhecimentos
+
+### Python
+
+* <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+Estudando fundamentos da linguagem, lógica de programação, estruturas de dados, funções, manipulação de arquivos e bibliotecas do ecossistema Python.
+
+### SQL
+
+* <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+Praticando consultas, filtros, agregações, agrupamentos, ordenação, subconsultas, funções e manipulação de dados em bancos relacionais.
+
+### Ferramentas
+
+* <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+* <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+
+<br>
+
+# 📚 Atualmente estudando
+
+Meu foco atual está em fortalecer os fundamentos de **Python e SQL**, através de exercícios, desafios e projetos pessoais.
+
+Também busco aplicar esses conhecimentos em situações práticas, desenvolvendo projetos que demonstrem minha evolução e minha capacidade de resolver problemas utilizando tecnologia.
+
+<br>
+
+# 🚀 Projetos
+
+Estou constantemente desenvolvendo e aprimorando projetos pessoais para colocar em prática aquilo que venho estudando.
+
+Os projetos disponíveis neste perfil representam parte do meu processo de aprendizado e evolução.
+
+<br>
+
+# 🌎 Vamos nos conectar
+
+* <a href="https://www.linkedin.com/in/andr%C3%A9-morais-bagalhi-325878319/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+* <a href="https://wa.me/+5514996850327?text=Olá%20André%20venho%20atraves%20do%20seu%20GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
 
 <!--
 
